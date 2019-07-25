@@ -1,0 +1,13 @@
+.navbar > .logo {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.main-container {
+	background-image: url(images/powerpose.jpeg);
+	background-position: center;
+	background-color: black;	
+	height: 1000px;
+/*	opacity: .25;
+*/
+}
