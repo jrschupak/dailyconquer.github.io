@@ -12,6 +12,10 @@
 */
 }
 
-.main-text {
-	
+.enter {
+	height: 5%;
+	width: 10%;
+	background-color: black;
+	color: white;
+
 }
