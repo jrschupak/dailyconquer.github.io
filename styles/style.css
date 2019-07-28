@@ -3,6 +3,10 @@
 	margin-left: auto;
 }
 
+.home{
+	height: 100%;
+}
+
 .main-container {
 	background-image: url(images/powerpose.jpeg);
 	background-position: center;
@@ -12,10 +16,13 @@
 */
 }
 
+.enterbtncont {
+	position: relative;
+	top: 49%;
+	height: 10%;
+}
+
 .enter {
-	height: 5%;
-	width: 10%;
 	background-color: black;
 	color: white;
-
 }
