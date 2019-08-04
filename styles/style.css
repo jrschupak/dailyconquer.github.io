@@ -1,3 +1,10 @@
+.navbar {
+	background-color: black;
+	color: white;
+	font-size: 50px;
+}
+
+
 .navbar > .logo {
 	margin-right: auto;
 	margin-left: auto;
@@ -16,13 +23,83 @@
 */
 }
 
-.enterbtncont {
-	position: relative;
-	top: 49%;
-	height: 10%;
+.initphrasetext {
+	font-size: 80px;
+	color: white;
+	text-align: center;
+	margin-top: 12.5%;
 }
 
-.enter {
-	background-color: black;
-	color: white;
+.enterbtncont {
+	position: relative;
+	top: 1%;
+	height: 10%;
+
 }
+
+
+.enter {
+	background: black;
+	color: white;
+	border-radius: 10px;
+	font-size: 30px;
+	/*font: bold;*/
+	text-decoration-line: none;
+	align-self: center;
+	/*height: 100px;*/
+	text-align: center;
+	padding: 35px 0;
+}
+
+.enter:hover {
+	background-color: white;
+	color: black;
+	text-decoration-line: none;
+}
+
+
+
+
+/*RESPONSIVE CSS*/
+@media (max-width: 600px) {
+	.enterbtncont {
+		top: 2%;
+	}
+}
+
+/*LIFE GOALS / Part 1*/
+
+
+.goals {
+	margin-top: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
