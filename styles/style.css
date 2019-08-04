@@ -71,9 +71,20 @@
 
 
 .goals {
-	margin-top: 10%;
+	margin-top: 8%;
+	margin-bottom: 50px;
 }
 
+.goalheader {
+	text-align: center;
+}
+
+input {
+	border-radius: 5px;
+	border: solid black 2px;
+	margin-bottom: 20px;
+	font-size: 20px;
+}
 
 
 
