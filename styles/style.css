@@ -79,12 +79,26 @@
 	text-align: center;
 }
 
+.headerquote {
+	margin-top: 20px;
+	font-size: 50px;
+	text-align: center;
+
+}
+
+.discription {
+	text-align: center;
+	margin-top: 20px;
+	font-size: 25px;
+}
+
 input {
 	border-radius: 5px;
 	border: solid black 2px;
 	margin-bottom: 20px;
 	font-size: 20px;
 }
+
 
 
 
