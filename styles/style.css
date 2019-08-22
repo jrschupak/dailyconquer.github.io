@@ -8,6 +8,8 @@
 .navbar > .logo {
 	margin-right: auto;
 	margin-left: auto;
+	text-decoration-line: none;
+	color: white;
 }
 
 .home{
@@ -80,7 +82,7 @@
 }
 
 .headerquote {
-	margin-top: 20px;
+	margin-top: 50px;
 	font-size: 50px;
 	text-align: center;
 
@@ -88,7 +90,7 @@
 
 .discription {
 	text-align: center;
-	margin-top: 20px;
+	margin-top: 50px;
 	font-size: 25px;
 }
 
@@ -99,10 +101,63 @@ input {
 	font-size: 20px;
 }
 
+.nextbtn {
+	background: black;
+	color: white;
+	border-radius: 10px;
+	font-size: 30px;
+	/*font: bold;*/
+	text-decoration-line: none;
+	align-self: center;
+	/*height: 100px;*/
+	text-align: center;
+	padding: 35px 0;
+	margin: 50px;
+}
+
+.nextbtn:hover {
+	background-color: white;
+	color: black;
+	border: black solid 3px;
+	text-decoration-line: none;
+}
+
+/*LIFE GOALS PART 2*/
+
+/*#humorlogo {
+	width: 300px
+	height:300px;
+}*/
+
+.logo-title {
+	text-align: center;
+}
+
+.pagelogos {
+	font-size: 50px;
+}
+
+.humorlogo {
+	margin-bottom: 100px;
+}
+
+.logopic {
+	width: 300px;
+	height: 300px;
+}
 
 
+.logopic:hover	{
+	width: 350px;
+	height: 350px;
+}
 
+/*GRATITUDE PAGE*/
 
+.gratcont {
+	margin-top: 25px;
+	margin-bottom: 50px;
+}
 
 
 
